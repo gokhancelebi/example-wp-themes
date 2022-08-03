@@ -1,0 +1,1 @@
+Example : https://ithemes.com/blog/wordpress-theme-development-basics/
